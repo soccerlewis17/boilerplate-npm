@@ -3,6 +3,7 @@
 	"author": "Josh Lewis",
 	"description": "Free Code Camp challenge 1 for npm packages",
 	"keywords": [ "freecodecamp", "practice", "npm" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
