@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Josh Lewis",
 	"description": "Free Code Camp challenge 1 for npm packages",
+	"keywords": [ "freecodecamp", "practice", "npm" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
