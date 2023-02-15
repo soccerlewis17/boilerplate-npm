@@ -4,6 +4,7 @@
 	"description": "Free Code Camp challenge 1 for npm packages",
 	"keywords": [ "freecodecamp", "practice", "npm" ],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
